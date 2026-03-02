@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: e5a5683d1f8a4824a940817d3707f2b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4910580696678351490
+    second: GhostChase_0
+  - first:
+      213: 848143677380814092
+    second: GhostChase_1
+  - first:
+      213: 6182964863682381540
+    second: GhostChase_2
+  - first:
+      213: 7573241306586984097
+    second: GhostChase_3
+  - first:
+      213: -4315337955841634803
+    second: GhostChase_4
+  - first:
+      213: -6311975535726253627
+    second: GhostChase_5
+  - first:
+      213: -6966686486873112723
+    second: GhostChase_6
+  - first:
+      213: 843867909292281493
+    second: GhostChase_7
+  - first:
+      213: -3774083436956079720
+    second: GhostChase_8
+  - first:
+      213: -964210325223619873
+    second: GhostChase_9
+  - first:
+      213: -4817129924551543140
+    second: GhostChase_10
+  - first:
+      213: 8429863613607200111
+    second: GhostChase_11
+  - first:
+      213: -7692354114344271895
+    second: GhostChase_12
+  - first:
+      213: -8434827738645961311
+    second: GhostChase_13
+  - first:
+      213: 599193159983623940
+    second: GhostChase_14
+  - first:
+      213: 8209372284511321477
+    second: GhostChase_15
+  - first:
+      213: 7133779196723226511
+    second: GhostChase_16
+  - first:
+      213: -3218469749818194800
+    second: GhostChase_17
+  - first:
+      213: 5371046751705275368
+    second: GhostChase_18
+  - first:
+      213: 4452778066572662619
+    second: GhostChase_19
+  - first:
+      213: -8615268798552803710
+    second: GhostChase_20
+  - first:
+      213: -5656127089900128872
+    second: GhostChase_21
+  - first:
+      213: 5387899610867347806
+    second: GhostChase_22
+  - first:
+      213: 2776790066462185695
+    second: GhostChase_23
+  - first:
+      213: 2124595760039163864
+    second: GhostChase_24
+  - first:
+      213: 4226755895123269708
+    second: GhostChase_25
+  - first:
+      213: 1607921060199150750
+    second: GhostChase_26
+  - first:
+      213: -2943855466276217340
+    second: GhostChase_27
+  - first:
+      213: -3264741646460929246
+    second: GhostChase_28
+  - first:
+      213: -3900850407676015504
+    second: GhostChase_29
+  - first:
+      213: -5490137342483515384
+    second: GhostChase_30
+  - first:
+      213: -7058211821665597329
+    second: GhostChase_31
+  - first:
+      213: 3911677164021788297
+    second: GhostChase_32
+  - first:
+      213: 7434164900452109507
+    second: GhostChase_33
+  - first:
+      213: -5373744829406968958
+    second: GhostChase_34
+  - first:
+      213: 6023351091594826566
+    second: GhostChase_35
+  - first:
+      213: -2542770533745553336
+    second: GhostChase_36
+  - first:
+      213: 7381703628876890112
+    second: GhostChase_37
+  - first:
+      213: 2278700196491812345
+    second: GhostChase_38
+  - first:
+      213: -8368962674835873587
+    second: GhostChase_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GhostChase_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28247625023e52440800000000000000
+      internalID: 4910580696678351490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05e6c05e2635cb00800000000000000
+      internalID: 848143677380814092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e68286e8cd4ec550800000000000000
+      internalID: 6182964863682381540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeae65f7de891960800000000000000
+      internalID: 7573241306586984097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e8c482ef6dc14c0800000000000000
+      internalID: -4315337955841634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a41a41bb5768a0800000000000000
+      internalID: -6311975535726253627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff9602d8b515f90800000000000000
+      internalID: -6966686486873112723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ec7ba746506bb00800000000000000
+      internalID: 843867909292281493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992c8b2c13cf9bc0800000000000000
+      internalID: -3774083436956079720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2484c51df6e92f0800000000000000
+      internalID: -964210325223619873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96733a1bdd162db0800000000000000
+      internalID: -4817129924551543140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f654c021b44ecf470800000000000000
+      internalID: 8429863613607200111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efbef750b44f3590800000000000000
+      internalID: -7692354114344271895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a565608cd871fa80800000000000000
+      internalID: -8434827738645961311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40feaac1103c05800800000000000000
+      internalID: 599193159983623940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dfb3ff89c8de170800000000000000
+      internalID: 8209372284511321477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8762ce0266400360800000000000000
+      internalID: 7133779196723226511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0940fb190d2b553d0800000000000000
+      internalID: -3218469749818194800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb986b409ac98a40800000000000000
+      internalID: 5371046751705275368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d6b94f027bcd30800000000000000
+      internalID: 4452778066572662619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286f0c16caa607880800000000000000
+      internalID: -8615268798552803710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895f90211666181b0800000000000000
+      internalID: -5656127089900128872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51b637562aa5ca40800000000000000
+      internalID: 5387899610867347806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_23
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8df477ad3298620800000000000000
+      internalID: 2776790066462185695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d77f6056941c7d10800000000000000
+      internalID: 2124595760039163864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c485c11a71478aa30800000000000000
+      internalID: 4226755895123269708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e943a046fab705610800000000000000
+      internalID: 1607921060199150750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e9386fc035527d0800000000000000
+      internalID: -2943855466276217340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb54715ce41b2d0800000000000000
+      internalID: -3264741646460929246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c8888c8356dd9c0800000000000000
+      internalID: -3900850407676015504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b92dcc2d1fc3b0800000000000000
+      internalID: -5490137342483515384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68c8248eb13c0e90800000000000000
+      internalID: -7058211821665597329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ea68dd7a1194630800000000000000
+      internalID: 3911677164021788297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_33
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc002dc6957b2760800000000000000
+      internalID: 7434164900452109507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2830b998c8f9c65b0800000000000000
+      internalID: -5373744829406968958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64398fb97ed379350800000000000000
+      internalID: 6023351091594826566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_36
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84014c6fba346bcd0800000000000000
+      internalID: -2542770533745553336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_37
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0004b6c2754117660800000000000000
+      internalID: 7381703628876890112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_38
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdd18171c19f9f10800000000000000
+      internalID: 2278700196491812345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostChase_39
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0a7e3b9c87bdb80800000000000000
+      internalID: -8368962674835873587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GhostChase_0: 4910580696678351490
+      GhostChase_1: 848143677380814092
+      GhostChase_10: -4817129924551543140
+      GhostChase_11: 8429863613607200111
+      GhostChase_12: -7692354114344271895
+      GhostChase_13: -8434827738645961311
+      GhostChase_14: 599193159983623940
+      GhostChase_15: 8209372284511321477
+      GhostChase_16: 7133779196723226511
+      GhostChase_17: -3218469749818194800
+      GhostChase_18: 5371046751705275368
+      GhostChase_19: 4452778066572662619
+      GhostChase_2: 6182964863682381540
+      GhostChase_20: -8615268798552803710
+      GhostChase_21: -5656127089900128872
+      GhostChase_22: 5387899610867347806
+      GhostChase_23: 2776790066462185695
+      GhostChase_24: 2124595760039163864
+      GhostChase_25: 4226755895123269708
+      GhostChase_26: 1607921060199150750
+      GhostChase_27: -2943855466276217340
+      GhostChase_28: -3264741646460929246
+      GhostChase_29: -3900850407676015504
+      GhostChase_3: 7573241306586984097
+      GhostChase_30: -5490137342483515384
+      GhostChase_31: -7058211821665597329
+      GhostChase_32: 3911677164021788297
+      GhostChase_33: 7434164900452109507
+      GhostChase_34: -5373744829406968958
+      GhostChase_35: 6023351091594826566
+      GhostChase_36: -2542770533745553336
+      GhostChase_37: 7381703628876890112
+      GhostChase_38: 2278700196491812345
+      GhostChase_39: -8368962674835873587
+      GhostChase_4: -4315337955841634803
+      GhostChase_5: -6311975535726253627
+      GhostChase_6: -6966686486873112723
+      GhostChase_7: 843867909292281493
+      GhostChase_8: -3774083436956079720
+      GhostChase_9: -964210325223619873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
