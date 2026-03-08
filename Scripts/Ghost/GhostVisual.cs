@@ -4,7 +4,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
 {
     [SerializeField] private EnemyAI _enemyAI;
     private Animator _animator;
-
+    
     private const string IS_RUNNING = "IsRunning";
     private const string CHASING_SPEED_MULTIPLIER = "chasingSpeedMultiplier";
 

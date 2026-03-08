@@ -3,6 +3,7 @@ using UnityEngine;
 using UnityEngine.AI;
 using CatNight.Utils;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Runtime.CompilerServices;
 
 public class EnemyAI : MonoBehaviour {
     [Header("Detection")]
@@ -14,11 +15,10 @@ public class EnemyAI : MonoBehaviour {
     [SerializeField] private float _roamingDistanceMin = 3f;
     [SerializeField] private float _roamingTimerMax = 2f;
     [SerializeField] private bool _flipByScale = true;
+    
     private NavMeshAgent _agent;
     private float _roamingTimer;
     private Vector3 _startPosition;
-
-
 
     private enum State {
         Roaming,
@@ -41,6 +41,14 @@ public class EnemyAI : MonoBehaviour {
     {
         if (_agent == null) return 0f;
         return _agent.velocity.magnitude;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            GameManager.Instance.ShowGameOver();
+        }
     }
 
     private void Awake()
@@ -121,18 +129,6 @@ public class EnemyAI : MonoBehaviour {
                 scale.x = -Mathf.Abs(scale.x);
 
             transform.localScale = scale;
-        }
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            MovePlayer player = collision.gameObject.GetComponent<MovePlayer>();
-            if (player != null)
-            {
-                player.TakeDamage(1);
-            }
         }
     }
 }

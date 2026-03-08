@@ -1,6 +1,7 @@
 
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class MovePlayer : MonoBehaviour {
 
@@ -41,6 +42,7 @@ public class MovePlayer : MonoBehaviour {
         rb.linearVelocity = Vector2.zero;
         enabled = false;
 
+        GameManager.Instance.ShowGameOver();
         Debug.Log("Игрок умер");
     }
     
